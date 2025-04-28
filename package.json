@@ -1,15 +1,14 @@
 {
-  "name": "@rulzz2nd/baileys-emde",
+  "name": "baileys",
   "version": "7.2.1",
-  "description": "WhatsApp API Fixed By Rlzyy", 
+  "description": "WhatsApp API", 
   "keywords": [
     "whatsapp",
     "js-whatsapp",
     "whatsapp-api",
     "whatsapp-web",
     "multi-device",
-    "md",
-    "rlzyy"
+    "md"
   ],
   "homepage": "https://github.com/WhiskeySockets/Baileys",
   "repository": {
